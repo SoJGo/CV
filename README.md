@@ -24,7 +24,7 @@ I have historically crafted rather the portfolio career, relishing new experienc
 | Name                         | Description       | Tech              |
 | ---------------------------- | ----------------- | ----------------- |
 | [**PairPro**](https://github.com/SoJGo/pair-pro) |Inspired by the good times spent pair programming at Makers! Sign up and live chat to fellow coding enthusiasts and arrange a pair programming session. <br> [Deployed here.](https://be-a-pair-pro.herokuapp.com/)  | JavaScript, NodeJS, ReactJS, ExpressJS, Cypress, Postman, MongoDb |
-| [**BookFace**](https://github.com/SoJGo/bookface) | Well that does sound familiar... <br> A project to build a version of the social media giant. <br> [Deployed here.](https://damp-hollows-50420.herokuapp.com/) <br>  | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap, HTML, CSS |
+| [**Acebook**](https://github.com/SoJGo/acebook) | Well that does sound familiar... <br> A project to build a version of the social media giant. <br> [Deployed here.](https://damp-hollows-50420.herokuapp.com/) <br>  | Ruby-on-Rails, RSpec, Capybara, BCrypt, PostgreSQL, Bootstrap, HTML, CSS |
 | [**News Summary Challenge**](https://github.com/SoJGo/news-summary-challenge) | A challenge to retrieve and search headlines from the Guardian Newspaper.  | JavaScript, Jest, Guardian API, HTML, CSS |
 | [**Bank Tech Test**](https://github.com/SoJGo/bank-tech-test) | A tech test style challenge implementing transactions features. | Ruby, RSpec, IRB |
 <br>
