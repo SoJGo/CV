@@ -122,8 +122,3 @@ _Holts Academy_
 ---
 
 - You can contact me via my [LinkedIn](https://www.linkedin.com/in/sophie-gowen/) account.
-
-## Contact
----
-
-- You can contact me via my [LinkedIn](https://www.linkedin.com/in/sophie-gowen/) account.
