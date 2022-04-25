@@ -107,15 +107,21 @@ _August 2020 - September 2020_
 
 <br>
 
-## Hobbies
+### Other Education
 ---
-**Silversmithing**
-- A meditative practice for me, I love the combination of precision and creativity.
-- Distinction in my Diploma from BAJ, with my final project based around geometry and pattern.
+#### **Diploma in Massage Therapy**
+_ITEC at Integrated Body Dynamics_
+- Distinction.
+
+#### **Diploma in Jewellery Manufacture**
+_Holts Academy_
+- Distinction.
 - Final piece selected for the graduation programme due to its 'demonstration of creativity and exceptionally technical ability'.
 
-**Keeping Active**
-- Running in our lovely park, yoga, cycling everywhere.
+## Contact
+---
+
+- You can contact me via my [LinkedIn](https://www.linkedin.com/in/sophie-gowen/) account.
 
 ## Contact
 ---
